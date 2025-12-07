@@ -1,6 +1,6 @@
 package com.petfriends.pedido.aggregate;
 
-import com.petfriends.pedido.commands.CreatePedidoCommand;
+import com.petfriends.pedido.comands.CreatePedidoCommand;
 import com.petfriends.pedido.events.PedidoCreatedEvent;
 import org.axonframework.commandhandling.CommandHandler;
 import org.axonframework.eventsourcing.EventSourcingHandler;

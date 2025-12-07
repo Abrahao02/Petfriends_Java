@@ -1,8 +1,9 @@
 package com.petfriends.pedido.service;
 
-import com.petfriends.pedido.commands.CreatePedidoCommand;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 import org.springframework.stereotype.Service;
+
+import com.petfriends.pedido.comands.CreatePedidoCommand;
 
 import java.util.UUID;
 import java.util.concurrent.CompletableFuture;

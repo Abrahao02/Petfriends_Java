@@ -1,4 +1,4 @@
-package com.petfriends.pedido.commands;
+package com.petfriends.pedido.comands;
 
 public abstract class BaseCommand {
     private final String commandId;

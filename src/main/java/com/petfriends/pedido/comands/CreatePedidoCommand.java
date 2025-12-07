@@ -1,4 +1,4 @@
-package com.petfriends.pedido.commands;
+package com.petfriends.pedido.comands;
 
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
